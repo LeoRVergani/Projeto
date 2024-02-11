@@ -23,3 +23,15 @@ h1 {
     font-size: 1.25em;
     font-weight: normal;
 }
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.flex-direction {
+    flex-direction: column;
+}
+
+.flex-justify {
+    justify-content: flex-end;
+}
