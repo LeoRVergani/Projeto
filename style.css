@@ -34,4 +34,9 @@ h1 {
 
 .flex-justify {
     justify-content: flex-end;
+    justify-content: space-around;
+}
+
+.item-align {
+    align-items: flex-end;
 }
